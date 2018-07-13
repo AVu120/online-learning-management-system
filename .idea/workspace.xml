@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dee7ad8-247b-4659-9848-d3ae988a32f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="4dee7ad8-247b-4659-9848-d3ae988a32f7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
+            <state relative-caret-position="217">
+              <caret line="150" column="17" lean-forward="true" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -145,17 +143,17 @@
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/new_entry.html" />
         <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/edit_entry.html" />
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
-        <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" />
         <option value="$PROJECT_DIR$/sandbox.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/learning_log/wsgi.py" />
         <option value="$PROJECT_DIR$/learning_log/static/placeholder.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/learning_log/settings.py" />
+        <option value="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -177,6 +175,24 @@
               <item name="learning_log" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning_log" type="462c0819:PsiDirectoryNode" />
               <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_log" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_log" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_log" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -583,20 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sandbox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -637,8 +639,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
+        <state relative-caret-position="217">
+          <caret line="150" column="17" lean-forward="true" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="67" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
